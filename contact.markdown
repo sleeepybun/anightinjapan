@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2019-07-09 21:11:00 Z
+position: 1
 potato: test test test
 ---
 
