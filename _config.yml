@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hananshoubaki@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: sleeepybun
 github_username: sleepybun
 markdown: kramdown
